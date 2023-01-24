@@ -1,1 +1,1 @@
-add conflict line
+add conflict lines
